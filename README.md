@@ -24,7 +24,7 @@ This is the EFI currently in use on my system.
 
 ## What doesn't work so far
 * Ethernet as of yet, unable to get RealtekRTL8111 to work (across several versions, 2.2-2.4)
-* Mic in, albeit this is a common issue on AppleALC
+* Mic in, albeit this is a common issue on AppleALC with Ryzen systems
 
 ## What should be adjusted
 * Redo the USB map for your system, I have mapped mine in accordance to my system (which has a broken USB port on the motherboard)

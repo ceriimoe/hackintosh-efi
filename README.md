@@ -18,7 +18,7 @@ This is the EFI currently in use on my system.
 | GPU          | AMD Radeon RX 5700 XT      |
 | RAM          | 32GB DDR4 @ 3200MHz (2x16) |
 | Audio        | Realtek (ALC887), DP audio |
-| WiFi/BT      | Intel (unknown card)       |
+| WiFi/BT      | Intel AC-3168              |
 | Ethernet     | Realtek, currently broken  |
 | Boot drive   | 256GB M.2 SATA SSD         |
 

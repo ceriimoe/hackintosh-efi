@@ -1,9 +1,9 @@
-# Hackintosh EFI
+# Hackintosh EFI - Ventura testing branch
 This is the EFI currently in use on my system.
 
 ## Main Software
 * OpenCore 0.8.8 (release and debug work)
-* macOS 12.6.2 (*Ventura does not currently work until airportitlwm v2.2.0 stable*)
+* macOS 13.x
 
 ## Additional Software
 * [AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor)

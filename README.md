@@ -23,7 +23,9 @@ This is the EFI currently in use on my system.
 | Boot drive   | 256GB M.2 SATA SSD         |
 
 ## What doesn't work so far
-* Ethernet as of yet, unable to get RealtekRTL8111 to work (across several versions, 2.2-2.4)
+* Ethernet as of yet, ~~unable to get RealtekRTL8111 to work (across several versions, 2.2-2.4)~~ 
+
+**Through use of actual macOS systems I'm fairly certain I went about the Ethernet settings wrong**
 * Mic in, albeit this is a common issue on AppleALC with Ryzen systems
 
 ## What should be adjusted

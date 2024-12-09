@@ -1,11 +1,11 @@
 # Hackintosh EFI
-This is the EFI currently in use on my system.
+This is the EFI that was in use on my system.
 
-## Main Software
-* OpenCore 0.8.8 (release and debug work)
-* macOS 12.6.2 (*Ventura does not currently work until airportitlwm v2.2.0 stable*)
+## Last tested on
+* OpenCore 0.8.8
+* macOS 12.6.2
 
-## Additional Software
+## Additional software
 * [AMD Power Gadget](https://github.com/trulyspinach/SMCAMDProcessor)
 * [RadeonGadget](https://github.com/aluveitie/RadeonSensor) 
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl)
@@ -19,7 +19,7 @@ This is the EFI currently in use on my system.
 | RAM          | 32GB DDR4 @ 3200MHz (2x16) |
 | Audio        | Realtek (ALC887), DP audio |
 | WiFi/BT      | Intel AC-3168              |
-| Ethernet     | Realtek, currently broken  |
+| Ethernet     | Realtek                    |
 | Boot drive   | 256GB M.2 SATA SSD         |
 
 ## What doesn't work so far
